@@ -1,0 +1,41 @@
+[
+  {
+    PULocation: 238,
+    DOLocation: 239,
+    PUDatetime: 01-01-2020  00:33:03,
+    DODatetime: 01-01-2020  00:33:03,
+    distance: 12,
+    passengers: 1,
+    totalAmount: {
+      fare: 420,
+      tax: 35,
+      tip: 20,
+    }
+  },
+  {
+    PULocation: 239,
+    DOLocation: 238,
+    PUDatetime: 01-01-2020  00:35:39,
+    DODatetime: 01-01-2020  00:43:04,
+    distance: 12,
+    passengers: 1,
+    totalAmount: {
+      fare: 490,
+      tax: 40,
+      tip: 20,
+    }
+  },
+  {
+    PULocation: 238,
+    DOLocation: 238,
+    PUDatetime: 01-01-2020  00:47:41,
+    DODatetime: 01-01-2020  00:53:52,
+    distance: 6,
+    passengers: 1,
+    totalAmount: {
+      fare: 220,
+      tax: 25,
+      tip: 15,
+    }
+  },
+]
