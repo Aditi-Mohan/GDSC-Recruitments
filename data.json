@@ -1,5 +1,7 @@
 [
   {
+    driverId: 1,
+    customerId: 15,
     PULocation: 238,
     DOLocation: 239,
     PUDatetime: 01-01-2020  00:33:03,
@@ -13,6 +15,8 @@
     }
   },
   {
+    driverid: 2,
+    customerId: 7,
     PULocation: 239,
     DOLocation: 238,
     PUDatetime: 01-01-2020  00:35:39,
@@ -26,6 +30,8 @@
     }
   },
   {
+    driverId: 7,
+    customerId: 3,
     PULocation: 238,
     DOLocation: 238,
     PUDatetime: 01-01-2020  00:47:41,

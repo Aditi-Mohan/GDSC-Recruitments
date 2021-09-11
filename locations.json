@@ -1,0 +1,68 @@
+LocationID	Borough	Zone
+[
+  {
+    locationID: 1,
+    Borough: EWR,
+    Zone: Newark Airport,
+  },
+  {
+    locationID: 2,
+    Borough: Queens,
+    Zone: Jamaica Bay,
+  },
+  {
+    locationID: 3,
+    Borough: Bronx,
+    Zone: Allerton/Pelham Gardens,
+  },
+  {
+    locationID: 4,
+    Borough: Manhattan,
+    Zone: Alphabet City,
+  },
+  {
+    locationID: 5,
+    Borough: Staten Island,
+    Zone: Arden Heights,
+  },
+  {
+    locationID: 6,
+    Borough: Staten Island,
+    Zone: Arrochar/Fort Wadsworth,
+  },
+  {
+    locationID: 7,
+    Borough: Queens,
+    Zone: Astoria,
+  },
+  {
+    locationID: 8,
+    Borough: Queens,
+    Zone: Astoria Park,
+  },
+  {
+    locationID: 9,
+    Borough: Queens,
+    Zone: Auburndale,
+  },
+  {
+    locationID: 10,
+    Borough: Queens,
+    Zone: Baisley Park,
+  },
+  {
+    locationID: 11,
+    Borough: Brooklyn,
+    Zone: Bath Beach,
+  },
+  {
+    locationID: 238,
+    Borough: Manhattan,
+    Zone: Upper West Side North,
+  },
+  {
+    locationID: 239,
+    Borough: Manhattan,
+    Zone: Upper West Side South,
+  },
+]
